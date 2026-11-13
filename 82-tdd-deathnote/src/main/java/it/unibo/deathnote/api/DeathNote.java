@@ -138,4 +138,5 @@ public interface DeathNote {
      * @return true if the given name is written in this DeathNote, false otherwise
      */
     boolean isNameWritten(String name);
+
 }
